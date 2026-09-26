@@ -1,5 +1,7 @@
 # Support Ticket Triage (Event-Driven Spring AI)
 
+[![CI](https://github.com/rahulmaity0/support-ticket-triage/actions/workflows/ci.yml/badge.svg)](https://github.com/rahulmaity0/support-ticket-triage/actions/workflows/ci.yml)
+
 An event-driven AI support ticket triaging and analysis microservice built with **Spring Boot 4.1**, **Spring AI**, **Apache Kafka**, and **PostgreSQL**.
 
 ## 🚀 Key Features
