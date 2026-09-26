@@ -1,6 +1,6 @@
 # Support Ticket Triage (Event-Driven Spring AI)
 
-An event-driven AI support ticket triaging and analysis microservice built with **Spring Boot 3.3**, **Spring AI**, **Apache Kafka**, and **PostgreSQL**.
+An event-driven AI support ticket triaging and analysis microservice built with **Spring Boot 4.1**, **Spring AI**, **Apache Kafka**, and **PostgreSQL**.
 
 ## 🚀 Key Features
 - **Event-Driven Processing**: Asynchronously consumes incoming customer support tickets from an Apache Kafka topic (`incoming-tickets`) using `@KafkaListener`.
@@ -9,8 +9,8 @@ An event-driven AI support ticket triaging and analysis microservice built with 
 
 ## 🛠️ Tech Stack
 - **Java 17**
-- **Spring Boot 3.3.3**
-- **Spring AI (1.0.0-M1)** (OpenAI Starter)
+- **Spring Boot 4.1**
+- **Spring AI 2.0** (OpenAI Starter)
 - **Spring Kafka** (`spring-boot-starter-kafka`)
 - **Spring Data JPA / Hibernate**
 - **PostgreSQL**
